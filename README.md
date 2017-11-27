@@ -17,4 +17,5 @@ En el dashboard, los usuarios pueden ver rápidamente estadísticas y datos en t
 
 ### Sketch
 
-![sketch]()
+![sketch](https://github.com/SteffAhv/retos-ux-03/blob/master/assets/images/sketch.PNG?raw=true)
+
